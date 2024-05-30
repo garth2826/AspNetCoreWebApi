@@ -15,9 +15,9 @@ namespace AspNetCoreWebApi.Controllers
         WideWorldImportersContext context = new WideWorldImportersContext();
 
 
-        [HttpGet("GetDevice")]
+        [HttpGet("GetDeviceAuthentication")]
         //public async Task<string> GetDevice()
-        public async Task<ActionResult<GarthDevice>> GetDevice()
+        public async Task<ActionResult<GarthDevice>> GetDeviceAuthentication()
         {
             string username = HttpContext.User.Identity.Name;
 
@@ -41,11 +41,19 @@ namespace AspNetCoreWebApi.Controllers
         }
 
         // GET api/<GarthDeviceController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("GetDevice/{id}")]
+        public async Task<ActionResult<GarthDevice>> GetDevice(int id)
         {
-            return "value";
+           
+
+            var device = await context.GarthDevices.Where(device => device.Id == id ).FirstOrDefaultAsync();
+            if (device == null)
+            {
+                return NotFound();
+            }
+            return device;
         }
+      
 
         // POST api/<GarthDeviceController>
         [HttpPost("CreateDevice")]
