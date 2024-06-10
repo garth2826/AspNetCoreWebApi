@@ -21,21 +21,21 @@
   },
   {
     "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
-    "Method": "Get",
-    "RelativePath": "api/GarthDevice/{id}",
-    "HttpMethod": "GET",
+    "Method": "PostGarthDevice",
+    "RelativePath": "api/GarthDevice/CreateDevice",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
+        "Name": "myGarthDevice",
+        "Type": "AspNetCoreWebApi.Models.MyGarthDevice",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "AspNetCoreWebApi.Models.MyGarthDevice",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -47,29 +47,7 @@
   },
   {
     "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
-    "Method": "Post",
-    "RelativePath": "api/GarthDevice/CreateDevice",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
-    "Method": "Delete",
+    "Method": "DeleteDevice",
     "RelativePath": "api/GarthDevice/DeleteDevice/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
@@ -83,8 +61,12 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
         "StatusCode": 200
       }
     ]
@@ -92,7 +74,33 @@
   {
     "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
     "Method": "GetDevice",
-    "RelativePath": "api/GarthDevice/GetDevice",
+    "RelativePath": "api/GarthDevice/GetDevice/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AspNetCoreWebApi.Models.GarthDevice",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
+    "Method": "GetDeviceAuthentication",
+    "RelativePath": "api/GarthDevice/GetDeviceAuthentication",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -100,6 +108,32 @@
     "ReturnTypes": [
       {
         "Type": "AspNetCoreWebApi.Models.GarthDevice",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
+    "Method": "GetSearchResult",
+    "RelativePath": "api/GarthDevice/GetSearchResult",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchString",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",

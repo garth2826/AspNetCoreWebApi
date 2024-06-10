@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\AspNetCore\\",
+  "WorkspaceRootPath": "D:\\github\\AspNetCoreWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcore\\aspnetcorewebapi\\controllers\\garthdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcorewebapi\\aspnetcorewebapi\\controllers\\garthdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\controllers\\garthdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcore\\aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcore\\aspnetcorewebapi\\models\\garthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\models\\garthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\models\\garthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcore\\aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\models\\mygarthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\models\\mygarthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +38,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MyGarthDevice.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
+              "RelativeToolTip": "AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:04:19.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GarthDevice.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
+              "RelativeToolTip": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:47:17.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Program.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Program.cs",
               "RelativeDocumentMoniker": "AspNetCoreWebApi\\Program.cs",
-              "ToolTip": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Program.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Program.cs",
               "RelativeToolTip": "AspNetCoreWebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,38 +76,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GarthDeviceController.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
               "RelativeDocumentMoniker": "AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
-              "ToolTip": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
               "RelativeToolTip": "AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAqwDMAAAAiAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvygAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T12:58:55.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BasicAuthenticationHandler.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "ToolTip": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
               "RelativeToolTip": "AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABxAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T11:09:39.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GarthDevice.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "ToolTip": "D:\\github\\AspNetCore\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "RelativeToolTip": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T12:19:17.864Z"
             }
           ]
         }

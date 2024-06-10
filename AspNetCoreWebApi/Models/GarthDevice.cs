@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AspNetCoreWebApi.Models;
 
@@ -21,6 +22,8 @@ public partial class GarthDevice
 
     public string? PositionOfDevice { get; set; }
 
+    //garthtest
+    //[ForeignKey("Company")]
     public virtual GarthCompany? Company { get; set; }
 
     public virtual ICollection<GarthLog> GarthLogs { get; set; } = new List<GarthLog>();

@@ -23,8 +23,9 @@ namespace AspNetCoreWebApi.handlers
         }
         protected override Task<Microsoft.AspNetCore.Authentication.AuthenticateResult> HandleAuthenticateAsync()
         {
+#if true
             //garthtest
-            
+            //test code do not remove.
             var clains2 = new[] { new Claim(ClaimTypes.Name,  "admin") };
             var identity2 = new ClaimsIdentity(clains2, Scheme.Name);
             var principle2 = new ClaimsPrincipal(identity2);
@@ -32,6 +33,7 @@ namespace AspNetCoreWebApi.handlers
 
             return Task.FromResult(Microsoft.AspNetCore.Authentication.AuthenticateResult.Success(ticket2));
             //end of garthtest
+#endif
             if (!Request.Headers.ContainsKey("Authorization"))
                 return Task.FromResult(Microsoft.AspNetCore.Authentication.AuthenticateResult.Fail("Authorization header was not found"));
             //return AuthenticateResult.Fail("Authorization header was not found");
