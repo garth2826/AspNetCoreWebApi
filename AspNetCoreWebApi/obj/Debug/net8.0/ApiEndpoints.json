@@ -73,6 +73,46 @@
   },
   {
     "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
+    "Method": "GetCompanyNameList",
+    "RelativePath": "api/GarthDevice/GetCompanyNameList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
+    "Method": "GetCompanyNameList1",
+    "RelativePath": "api/GarthDevice/GetCompanyNameList1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AspNetCoreWebApi.Models.GarthCompany, AspNetCoreWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
     "Method": "GetDevice",
     "RelativePath": "api/GarthDevice/GetDevice/{id}",
     "HttpMethod": "GET",
@@ -87,7 +127,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "AspNetCoreWebApi.Models.GarthDevice",
+        "Type": "AspNetCoreWebApi.Models.MyGarthDevice",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -133,7 +173,33 @@
     ],
     "ReturnTypes": [
       {
+        "Type": "System.Collections.Generic.List\u00601[[AspNetCoreWebApi.Controllers.SearchResult, AspNetCoreWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AspNetCoreWebApi.Controllers.GarthDeviceController",
+    "Method": "GetSearchResultExtend",
+    "RelativePath": "api/GarthDevice/GetSearchResultExtend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchString",
         "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AspNetCoreWebApi.Controllers.SearchResultExtend, AspNetCoreWebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

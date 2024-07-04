@@ -134,7 +134,8 @@ D:\github\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\net8.0\refint\AspNetCoreWe
 D:\github\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\net8.0\AspNetCoreWebApi.pdb
 D:\github\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\net8.0\AspNetCoreWebApi.genruntimeconfig.cache
 D:\github\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\net8.0\ref\AspNetCoreWebApi.dll
-D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Microsoft.Owin.dll
-D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Microsoft.Owin.Security.dll
-D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Owin.dll
 D:\github\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\net8.0\AspNetCoreWebApi.sourcelink.json
+D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Serilog.dll
+D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\github\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\github\\AspNetCoreWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|d:\\github\\aspnetcorewebapi\\aspnetcorewebapi\\controllers\\garthdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\controllers\\garthdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\models\\garthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\models\\garthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\models\\mygarthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\models\\mygarthdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\handlers\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\aspnetcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\aspnetcorewebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\aspnetcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\aspnetcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|D:\\github\\AspNetCoreWebApi\\aspnetcorewebapi\\models\\wideworldimporterscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A2708F-4AAC-4C4D-9560-54CD37ACF413}|AspNetCoreWebApi\\AspNetCoreWebApi.csproj|solutionrelative:aspnetcorewebapi\\models\\wideworldimporterscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,63 +47,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyGarthDevice.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
-              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
-              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
-              "RelativeToolTip": "AspNetCoreWebApi\\Models\\MyGarthDevice.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:04:19.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GarthDevice.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "RelativeToolTip": "AspNetCoreWebApi\\Models\\GarthDevice.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:47:17.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Program.cs",
               "RelativeDocumentMoniker": "AspNetCoreWebApi\\Program.cs",
               "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Program.cs",
               "RelativeToolTip": "AspNetCoreWebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:17:42.317Z"
+              "WhenOpened": "2024-07-03T12:19:08.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "AspNetCoreWebApi",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\AspNetCoreWebApi.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\AspNetCoreWebApi.csproj",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\AspNetCoreWebApi.csproj",
+              "RelativeToolTip": "AspNetCoreWebApi\\AspNetCoreWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T12:18:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GarthDeviceController.cs",
               "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
               "RelativeDocumentMoniker": "AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
               "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
               "RelativeToolTip": "AspNetCoreWebApi\\Controllers\\GarthDeviceController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAADwvygAAAANAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAASwEgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:58:55.95Z",
+              "WhenOpened": "2024-06-12T10:55:46.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BasicAuthenticationHandler.cs",
-              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "RelativeToolTip": "AspNetCoreWebApi\\handlers\\BasicAuthenticationHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAuAAAA",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AspNetCoreWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:09:39.705Z"
+              "WhenOpened": "2024-07-03T12:20:12.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WideWorldImportersContext.cs",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\WideWorldImportersContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\Models\\WideWorldImportersContext.cs",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\Models\\WideWorldImportersContext.cs",
+              "RelativeToolTip": "AspNetCoreWebApi\\Models\\WideWorldImportersContext.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAgwGkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:10:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetCoreWebApi.http",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\AspNetCoreWebApi.http",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\AspNetCoreWebApi.http",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\AspNetCoreWebApi.http",
+              "RelativeToolTip": "AspNetCoreWebApi\\AspNetCoreWebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-29T12:53:58.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebApi\\appsettings.json",
+              "ToolTip": "D:\\github\\AspNetCoreWebApi\\AspNetCoreWebApi\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T11:24:58.752Z",
+              "EditorCaption": ""
             }
           ]
         }
